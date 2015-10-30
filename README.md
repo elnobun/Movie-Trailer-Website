@@ -1,8 +1,8 @@
-<b>TITLE : Movie Trailer Website
-AUTHOR : Ellis Enobun
-PYTHON VERSION : Python 3.5
-PROJECT : A python file generating a html web page
-CODE TEST: PEP8</b>
+<b>TITLE : Movie Trailer Website <br>
+AUTHOR : Ellis Enobun<br>
+PYTHON VERSION : Python 3.5<br>
+PROJECT : A python file generating a html web page<br>
+CODE CHECKER: PEP8</b>
 
 
 Here, I explain in detail how our website; fresh_tomatoes.py functions with media.py and entertainment.py 
