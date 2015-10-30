@@ -4,10 +4,11 @@ PYTHON VERSION : Python 3.5<br>
 PROJECT : A python file generating a html web page<br>
 CODE CHECKER: PEP8</b>
 
+<b> Description:</b> A server-side code that stores a list of movies, including box art, imagery, a movie trailer URL, and serve this data as web page; allowing visitors to review their movies and watch trailers.
 
-Here, I explain in detail how our website; fresh_tomatoes.py functions with media.py and entertainment.py 
-to display movie title, poster_image, and trailer. I later on explained how i managed to reconfigure the fresh_tomatoes.py
-file to include Moive_reviews,and a "About Udacity" link to Udacity website. Finally, i explained how to run this program.
+In this readme file, I explain in detail how our website; fresh_tomatoes.py functions with media.py and entertainment.py 
+to display movie title, poster_image, and trailer. I later on explained how i reconfigured the fresh_tomatoes.py
+file to include Moive_reviews, and a "About Udacity" link to Udacity website. Finally, i explained how to run this program.
 
 # PLAN
 
