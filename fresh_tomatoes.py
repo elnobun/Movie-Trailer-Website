@@ -107,7 +107,7 @@ main_page_content = '''
       <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#"> Moive Trailer Project |</a>
+            <a class="navbar-brand" href="#"> Moive Trailer | See Top</a>
             <a class="navbar-brand" href="http://www.udacity.com"> About Udacity</a>
           </div>
         </div>

@@ -5,7 +5,7 @@ __Project__ = 'Making a Movie Website: A python file generating a html web page'
 # This code was tested by PEP8, a de facto standard of Python
 
 import webbrowser as wb
-"""provides interface to allow displaying Web-based documents to users"""
+'''provides interface to allow displaying Web-based documents to users'''
 
 
 class Movie():
@@ -24,6 +24,7 @@ class Movie():
         self.storyline = movie_storyline
         self.poster_image_url = poster_image
         self.trailer_youtube_url = trailer_youtube
+
 
     """when we pass in a title, and assign its value to self.title,
     we are saying "this movie's title is the title we passed in" see result
