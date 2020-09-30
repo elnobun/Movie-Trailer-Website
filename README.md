@@ -10,7 +10,7 @@ In this readme file, I explain in detail how our website; fresh_tomatoes.py func
 to display movie title, poster_image, and trailer. I later on explained how i reconfigured the fresh_tomatoes.py
 file to include Moive_reviews, and a "About Udacity" link to Udacity website. Finally, i explained how to run this program.
 
-# PLAN
+# PLAN INFO
 
 <b>Programming Foundations with Python</b>
 
