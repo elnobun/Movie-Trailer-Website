@@ -18,9 +18,9 @@ We started off with a plan:
 
 1. Go to the website
 2. See all of the movies displayed
-3. Click on one to play it's trailer
+3. Click on one to play its trailer
 
-It's pretty simple in terms of concept, but how about implementation?
+It's pretty simple in terms of concept, but what about implementation?
 
 <b>Class structure</b>
 
@@ -38,7 +38,7 @@ and add details to each specific movie. So, we first need to come up with a list
 
 # CODING EXPLAINED:
 
-We will leave out some things like cast and box office numbers, since the things we listed above will be enough to get started. As far as methods we need to write, for now let's focus on:
+We will leave out some things like cast and box office numbers, since the things we listed above will be enough to get started. As for the methods we need to write, for now let's focus on:
 
     show_trailer()
 
