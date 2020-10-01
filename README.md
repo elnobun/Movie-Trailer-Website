@@ -68,7 +68,7 @@ Note- Using self is simply convention; here's an excerpt from the Python docs ex
 
 Often, the first argument of a method is called self. 
 This is nothing more than a convention: the name self has absolutely no special meaning to Python. 
-Note, however, that by not following the convention your code may be less readable to other Python programmers, 
+Note, however by not following the convention your code may be less readable to other Python programmers, 
 and it is also conceivable that a class browser program might be written that relies upon such a convention.
 
 Here's our new class:
