@@ -1,4 +1,4 @@
-<b>TITLE : Movie Trailer Website <br>
+<b>TITLE : Movie Trailer Website An Amazing Project <br>
 AUTHOR : Ellis Enobun<br>
 PYTHON VERSION : Python 3.5<br>
 PROJECT : A python file generating a html web page<br>
